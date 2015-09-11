@@ -1,0 +1,6 @@
+NAME,WORTH,GRADE
+Assignment 1,10,9
+Assignment 2,10,4
+Test 1,25,24.5
+Test 2,25,25
+Exam,30,28
